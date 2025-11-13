@@ -2,7 +2,7 @@
 2D game,
 Keyboard and mouse controls,
 Shoot and destroy enemies,
-Score system (current point and total point),
+Score system (current score and total score),
 Enemies with health bar,
 Enemies follow the player,
 Player animation,
